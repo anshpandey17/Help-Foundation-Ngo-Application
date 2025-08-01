@@ -28,7 +28,7 @@ def prediction(input_list):
         return 'DEVELOPED'
     elif output==1:
         return 'UNDER_DEVELOPED'
-    elif:
+    else:
         return 'DEVELOPING'
 
 # _____________________________________________________
